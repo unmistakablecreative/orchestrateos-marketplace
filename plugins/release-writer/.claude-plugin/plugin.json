@@ -1,0 +1,6 @@
+{
+  "name": "release-writer",
+  "version": "1.0.0",
+  "description": "Generate changelogs and release notes from git commits. Parses commits since last tag, outputs Keep a Changelog format plus user-facing release notes.",
+  "skills": ["skills/release-writer"]
+}

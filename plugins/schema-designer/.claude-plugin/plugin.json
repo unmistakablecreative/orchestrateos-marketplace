@@ -1,0 +1,6 @@
+{
+  "name": "schema-designer",
+  "version": "1.0.0",
+  "description": "Design database schemas with migrations from requirements.",
+  "skills": ["skills/schema-designer"]
+}

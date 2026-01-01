@@ -1,0 +1,6 @@
+{
+  "name": "project-documenter",
+  "version": "1.0.0",
+  "description": "Generate comprehensive project documentation including README, architecture docs with Mermaid diagrams, and CONTRIBUTING guide.",
+  "skills": ["skills/project-documenter"]
+}

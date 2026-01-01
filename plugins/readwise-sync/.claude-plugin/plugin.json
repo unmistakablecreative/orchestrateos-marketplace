@@ -1,0 +1,6 @@
+{
+  "name": "readwise-sync",
+  "version": "1.0.0",
+  "description": "Sync and query highlights from Readwise/Reader API. Access your book highlights, articles, and annotations.",
+  "skills": ["skills/readwise-sync"]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "user-story-writer",
+  "version": "1.0.0",
+  "description": "Generate user stories with acceptance criteria from feature descriptions for agile development.",
+  "skills": ["skills/user-story-writer"]
+}

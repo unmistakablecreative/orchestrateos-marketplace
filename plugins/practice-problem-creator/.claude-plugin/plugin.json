@@ -1,0 +1,6 @@
+{
+  "name": "practice-problem-creator",
+  "version": "1.0.0",
+  "description": "Generate progressive difficulty practice problems for any topic, from beginner to advanced levels with solutions.",
+  "skills": ["skills/practice-problem-creator"]
+}

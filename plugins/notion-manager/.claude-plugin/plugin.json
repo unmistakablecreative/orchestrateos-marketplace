@@ -1,0 +1,6 @@
+{
+  "name": "notion-manager",
+  "version": "1.0.0",
+  "description": "Manage Notion workspace via API - create pages, databases, and content blocks.",
+  "skills": ["skills/notion-manager"]
+}

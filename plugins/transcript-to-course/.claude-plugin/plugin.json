@@ -1,0 +1,6 @@
+{
+  "name": "transcript-to-course",
+  "version": "1.0.0",
+  "description": "Convert video transcripts into structured course modules with lessons, objectives, and activities.",
+  "skills": ["skills/transcript-to-course"]
+}

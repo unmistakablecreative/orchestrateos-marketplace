@@ -1,0 +1,6 @@
+{
+  "name": "decision-record-writer",
+  "version": "1.0.0",
+  "description": "Generate Architecture Decision Records (ADRs) in MADR format to document technical decisions.",
+  "skills": ["skills/decision-record-writer"]
+}

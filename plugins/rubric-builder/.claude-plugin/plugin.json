@@ -1,0 +1,6 @@
+{
+  "name": "rubric-builder",
+  "version": "1.0.0",
+  "description": "Generate grading rubrics with clear criteria from assignments, projects, or learning objectives.",
+  "skills": ["skills/rubric-builder"]
+}

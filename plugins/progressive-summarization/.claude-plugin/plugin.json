@@ -1,0 +1,6 @@
+{
+  "name": "progressive-summarization",
+  "version": "1.0.0",
+  "description": "Apply Tiago Forte's progressive summarization to Readwise book highlights. Fetches highlights, appli",
+  "skills": ["skills/progressive-summarization"]
+}

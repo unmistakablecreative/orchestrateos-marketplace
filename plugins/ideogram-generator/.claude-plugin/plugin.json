@@ -1,0 +1,6 @@
+{
+  "name": "ideogram-generator",
+  "version": "1.0.0",
+  "description": "Generate AI images using the Ideogram API. Create graphics, illustrations, and visual content from text prompts.",
+  "skills": ["skills/ideogram-generator"]
+}

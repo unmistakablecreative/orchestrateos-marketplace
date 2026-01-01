@@ -1,0 +1,6 @@
+{
+  "name": "code-improver",
+  "version": "1.0.0",
+  "description": "Review, refactor, and analyze code complexity. Takes functions or PR diffs, outputs review comments, refactored versions, and complexity scores with simplification suggestions.",
+  "skills": ["skills/code-improver"]
+}

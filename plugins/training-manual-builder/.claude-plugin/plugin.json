@@ -1,0 +1,6 @@
+{
+  "name": "training-manual-builder",
+  "version": "1.0.0",
+  "description": "Create illustrated training manuals and documentation from process descriptions.",
+  "skills": ["skills/training-manual-builder"]
+}

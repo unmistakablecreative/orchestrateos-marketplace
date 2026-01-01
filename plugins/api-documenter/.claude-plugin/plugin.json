@@ -1,0 +1,6 @@
+{
+  "name": "api-documenter",
+  "version": "1.0.0",
+  "description": "Generate API documentation from code or OpenAPI specs. Outputs markdown reference docs and OpenAPI annotations.",
+  "skills": ["skills/api-documenter"]
+}

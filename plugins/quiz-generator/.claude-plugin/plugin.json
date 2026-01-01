@@ -1,0 +1,6 @@
+{
+  "name": "quiz-generator",
+  "version": "1.0.0",
+  "description": "Generate quizzes with multiple choice and short answer questions from any content. Creates answer keys automatically.",
+  "skills": ["skills/quiz-generator"]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pricing-calculator",
+  "version": "1.0.0",
+  "description": "Generate pricing tiers with cost breakdowns and market justifications from cost inputs.",
+  "skills": ["skills/pricing-calculator"]
+}

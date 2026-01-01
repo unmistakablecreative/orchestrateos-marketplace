@@ -1,0 +1,6 @@
+{
+  "name": "google-analytics-reporter",
+  "version": "1.0.0",
+  "description": "Generate custom Google Analytics reports. Query metrics, dimensions, and create visualizations from GA4 data.",
+  "skills": ["skills/google-analytics-reporter"]
+}

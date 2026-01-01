@@ -1,0 +1,6 @@
+{
+  "name": "wordpress-publisher",
+  "version": "1.0.0",
+  "description": "Publish posts and pages to WordPress via REST API.",
+  "skills": ["skills/wordpress-publisher"]
+}

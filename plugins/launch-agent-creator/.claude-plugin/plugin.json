@@ -1,0 +1,6 @@
+{
+  "name": "launch-agent-creator",
+  "version": "1.0.0",
+  "description": "Generate macOS LaunchAgents from natural language descriptions. Converts plain English scheduling re",
+  "skills": ["skills/launch-agent-creator"]
+}

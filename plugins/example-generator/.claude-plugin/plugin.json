@@ -1,0 +1,6 @@
+{
+  "name": "example-generator",
+  "version": "1.0.0",
+  "description": "Generate 5 real-world examples for any concept, idea, or principle. Great for teaching, writing, and explanation.",
+  "skills": ["skills/example-generator"]
+}

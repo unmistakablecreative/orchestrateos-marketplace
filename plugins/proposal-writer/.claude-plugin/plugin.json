@@ -1,0 +1,6 @@
+{
+  "name": "proposal-writer",
+  "version": "1.0.0",
+  "description": "Generate professional project proposals from scope descriptions. Business proposals, project bids, consulting engagements.",
+  "skills": ["skills/proposal-writer"]
+}

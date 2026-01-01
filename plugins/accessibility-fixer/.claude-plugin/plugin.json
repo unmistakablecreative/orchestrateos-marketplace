@@ -1,0 +1,6 @@
+{
+  "name": "accessibility-fixer",
+  "version": "1.0.0",
+  "description": "Transform UI code into accessible versions with proper ARIA labels, semantic HTML, and WCAG compliance.",
+  "skills": ["skills/accessibility-fixer"]
+}

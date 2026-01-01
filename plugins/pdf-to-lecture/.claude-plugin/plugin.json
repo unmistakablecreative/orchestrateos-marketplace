@@ -1,0 +1,6 @@
+{
+  "name": "pdf-to-lecture",
+  "version": "1.0.0",
+  "description": "Convert PDF slides into lecture videos with Indian English TTS narration. Takes a PDF, extracts text",
+  "skills": ["skills/pdf-to-lecture"]
+}

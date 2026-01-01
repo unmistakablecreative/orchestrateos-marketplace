@@ -1,0 +1,6 @@
+{
+  "name": "project-setup",
+  "version": "1.0.0",
+  "description": "Initialize project with proper dependency files, .gitignore, and environment validation. Scans existing code to generate package.json, requirements.txt, or other dependency manifests.",
+  "skills": ["skills/project-setup"]
+}

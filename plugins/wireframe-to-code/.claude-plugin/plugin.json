@@ -1,0 +1,6 @@
+{
+  "name": "wireframe-to-code",
+  "version": "1.0.0",
+  "description": "Convert wireframe descriptions into functional HTML/CSS mockups. Generates responsive, clean code from design specs.",
+  "skills": ["skills/wireframe-to-code"]
+}

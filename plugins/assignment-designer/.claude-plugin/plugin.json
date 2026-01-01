@@ -1,0 +1,6 @@
+{
+  "name": "assignment-designer",
+  "version": "1.0.0",
+  "description": "Design scaffolded educational assignments from learning goals with clear instructions, rubrics, and success criteria.",
+  "skills": ["skills/assignment-designer"]
+}

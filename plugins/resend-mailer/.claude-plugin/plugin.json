@@ -1,0 +1,6 @@
+{
+  "name": "resend-mailer",
+  "version": "1.0.0",
+  "description": "Send transactional emails via Resend API. Manage templates, track delivery, and handle email automation.",
+  "skills": ["skills/resend-mailer"]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "twitter-poster",
+  "version": "1.0.0",
+  "description": "Post tweets and threads via Twitter/X API.",
+  "skills": ["skills/twitter-poster"]
+}

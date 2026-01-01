@@ -1,0 +1,6 @@
+{
+  "name": "certification-tracker",
+  "version": "1.0.0",
+  "description": "Track certification requirements, compliance status, and renewal deadlines for individuals or teams.",
+  "skills": ["skills/certification-tracker"]
+}

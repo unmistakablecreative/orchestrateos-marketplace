@@ -1,0 +1,6 @@
+{
+  "name": "canvas-course-builder",
+  "version": "1.0.0",
+  "description": "Build and manage Canvas LMS courses, assignments, and modules via the Canvas API.",
+  "skills": ["skills/canvas-course-builder"]
+}

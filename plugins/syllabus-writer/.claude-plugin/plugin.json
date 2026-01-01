@@ -1,0 +1,6 @@
+{
+  "name": "syllabus-writer",
+  "version": "1.0.0",
+  "description": "Generate professional course syllabi from outlines. Takes course details and outputs formatted, comprehensive syllabi.",
+  "skills": ["skills/syllabus-writer"]
+}

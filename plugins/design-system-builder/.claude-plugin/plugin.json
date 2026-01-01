@@ -1,0 +1,6 @@
+{
+  "name": "design-system-builder",
+  "version": "1.0.0",
+  "description": "Generate complete CSS design systems from brand colors. Outputs variables, typography, spacing, and component styles.",
+  "skills": ["skills/design-system-builder"]
+}

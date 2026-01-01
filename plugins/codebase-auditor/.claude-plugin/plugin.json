@@ -1,0 +1,6 @@
+{
+  "name": "codebase-auditor",
+  "version": "1.0.0",
+  "description": "Comprehensive codebase audit covering security vulnerabilities, dead code, outdated dependencies, performance issues, and tech debt.",
+  "skills": ["skills/codebase-auditor"]
+}

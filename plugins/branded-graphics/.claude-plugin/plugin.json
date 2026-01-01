@@ -1,0 +1,6 @@
+{
+  "name": "branded-graphics",
+  "version": "1.0.0",
+  "description": "Extract brand DNA from Instagram/website/images then generate on-brand graphics. Two-phase skill combining brand extraction with graphic generation.",
+  "skills": ["skills/branded-graphics"]
+}

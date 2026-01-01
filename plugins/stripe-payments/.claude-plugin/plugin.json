@@ -1,0 +1,6 @@
+{
+  "name": "stripe-payments",
+  "version": "1.0.0",
+  "description": "Integrate Stripe payments: create customers, subscriptions, invoices, and manage payment flows.",
+  "skills": ["skills/stripe-payments"]
+}

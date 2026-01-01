@@ -1,0 +1,6 @@
+{
+  "name": "outline-publisher",
+  "version": "1.0.0",
+  "description": "Publish and manage documents in Outline knowledge base via API. Create, update, and organize docs.",
+  "skills": ["skills/outline-publisher"]
+}

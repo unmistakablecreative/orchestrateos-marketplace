@@ -1,0 +1,6 @@
+{
+  "name": "slack-automation",
+  "version": "1.0.0",
+  "description": "Automate Slack workspace tasks - send messages, manage channels, post updates, and create workflows via the Slack API.",
+  "skills": ["skills/slack-automation"]
+}

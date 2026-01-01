@@ -1,0 +1,6 @@
+{
+  "name": "onboarding-curriculum",
+  "version": "1.0.0",
+  "description": "Generate week-by-week employee onboarding curricula for any role.",
+  "skills": ["skills/onboarding-curriculum"]
+}

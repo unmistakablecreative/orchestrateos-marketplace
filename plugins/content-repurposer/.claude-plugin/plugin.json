@@ -1,0 +1,6 @@
+{
+  "name": "content-repurposer",
+  "version": "1.0.0",
+  "description": "Repurpose blog posts into multiple social media formats - tweets, threads, LinkedIn posts, and newsletter content.",
+  "skills": ["skills/content-repurposer"]
+}

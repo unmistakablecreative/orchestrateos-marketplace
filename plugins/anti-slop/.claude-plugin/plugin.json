@@ -1,0 +1,6 @@
+{
+  "name": "anti-slop",
+  "version": "1.0.0",
+  "description": "Eliminate AI writing patterns that make prose predictable and mechanical. Use when editing articles,",
+  "skills": ["skills/anti-slop"]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "chart-generator",
+  "version": "1.0.0",
+  "description": "Generate data visualizations using Chart.js or D3.js from datasets or descriptions.",
+  "skills": ["skills/chart-generator"]
+}

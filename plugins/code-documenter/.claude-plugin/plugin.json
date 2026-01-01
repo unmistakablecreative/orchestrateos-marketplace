@@ -1,0 +1,6 @@
+{
+  "name": "code-documenter",
+  "version": "1.0.0",
+  "description": "Generate documentation for code in any language. Creates JSDoc for JavaScript, Google/NumPy docstrings for Python, and inline comments for complex logic.",
+  "skills": ["skills/code-documenter"]
+}

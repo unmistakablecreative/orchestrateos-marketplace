@@ -1,0 +1,6 @@
+{
+  "name": "data-cleaner",
+  "version": "1.0.0",
+  "description": "Clean messy CSV or JSON data - fix formatting, remove duplicates, standardize values, and output a transformation log.",
+  "skills": ["skills/data-cleaner"]
+}

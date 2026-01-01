@@ -1,0 +1,6 @@
+{
+  "name": "blog-outline",
+  "version": "1.0.0",
+  "description": "Create structured blog post outlines using the article questioning meta framework. Triggers on blog ",
+  "skills": ["skills/blog-outline"]
+}

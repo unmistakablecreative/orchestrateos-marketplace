@@ -1,0 +1,6 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "Generate Anki/Quizlet-ready flashcards from any content. Study materials, lecture notes, documentation.",
+  "skills": ["skills/flashcard-generator"]
+}

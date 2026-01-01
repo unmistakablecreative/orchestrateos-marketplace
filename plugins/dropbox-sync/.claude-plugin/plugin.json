@@ -1,0 +1,6 @@
+{
+  "name": "dropbox-sync",
+  "version": "1.0.0",
+  "description": "Dropbox file management - upload, download, sync files, and manage folders via Dropbox API.",
+  "skills": ["skills/dropbox-sync"]
+}

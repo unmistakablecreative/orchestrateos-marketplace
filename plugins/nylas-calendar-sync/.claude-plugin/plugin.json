@@ -1,0 +1,6 @@
+{
+  "name": "nylas-calendar-sync",
+  "version": "1.0.0",
+  "description": "Calendar sync and management via Nylas API - create events, check availability, sync across calendars.",
+  "skills": ["skills/nylas-calendar-sync"]
+}

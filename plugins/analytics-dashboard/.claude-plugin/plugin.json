@@ -1,0 +1,6 @@
+{
+  "name": "analytics-dashboard",
+  "version": "1.0.0",
+  "description": "Generate complete analytics dashboards in HTML or React from metrics and data sources.",
+  "skills": ["skills/analytics-dashboard"]
+}

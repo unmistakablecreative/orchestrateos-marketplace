@@ -1,0 +1,6 @@
+{
+  "name": "config-generator",
+  "version": "1.0.0",
+  "description": "Generate project configuration files: tsconfig, eslint, prettier, jest, vite, Makefile, and more.",
+  "skills": ["skills/config-generator"]
+}

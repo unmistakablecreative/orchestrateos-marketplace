@@ -1,0 +1,6 @@
+{
+  "name": "sql-optimizer",
+  "version": "1.0.0",
+  "description": "Optimize SQL queries for better performance. Analyzes queries and provides optimized versions with execution plan insights.",
+  "skills": ["skills/sql-optimizer"]
+}

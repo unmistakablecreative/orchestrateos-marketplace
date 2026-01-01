@@ -1,0 +1,6 @@
+{
+  "name": "ci-generator",
+  "version": "1.0.0",
+  "description": "Generate CI/CD workflows for GitHub Actions and GitLab CI from plain English requirements.",
+  "skills": ["skills/ci-generator"]
+}

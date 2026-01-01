@@ -1,0 +1,6 @@
+{
+  "name": "ops-documenter",
+  "version": "1.0.0",
+  "description": "Generate troubleshooting guides and operational runbooks. Takes system descriptions or common errors, outputs troubleshooting documentation and operational runbooks.",
+  "skills": ["skills/ops-documenter"]
+}

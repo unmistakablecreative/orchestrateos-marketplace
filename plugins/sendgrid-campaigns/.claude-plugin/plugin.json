@@ -1,0 +1,6 @@
+{
+  "name": "sendgrid-campaigns",
+  "version": "1.0.0",
+  "description": "Send transactional and marketing emails via SendGrid API.",
+  "skills": ["skills/sendgrid-campaigns"]
+}

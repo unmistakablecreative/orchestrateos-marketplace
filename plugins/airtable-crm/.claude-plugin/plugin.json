@@ -1,0 +1,6 @@
+{
+  "name": "airtable-crm",
+  "version": "1.0.0",
+  "description": "Manage Airtable bases - CRUD operations, views, automations via Airtable API",
+  "skills": ["skills/airtable-crm"]
+}

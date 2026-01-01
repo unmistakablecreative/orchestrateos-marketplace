@@ -1,0 +1,6 @@
+{
+  "name": "nylas-inbox-manager",
+  "version": "1.0.0",
+  "description": "Manage email inbox via Nylas API. Read, send, organize, and filter emails programmatically.",
+  "skills": ["skills/nylas-inbox-manager"]
+}

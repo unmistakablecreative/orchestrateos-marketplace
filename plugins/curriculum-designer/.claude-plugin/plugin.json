@@ -1,0 +1,6 @@
+{
+  "name": "curriculum-designer",
+  "version": "1.0.0",
+  "description": "Design complete learning curricula with weekly breakdowns from learning objectives.",
+  "skills": ["skills/curriculum-designer"]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "trello-kanban",
+  "version": "1.0.0",
+  "description": "Trello board management - create boards, cards, lists, and manage kanban workflows via Trello API.",
+  "skills": ["skills/trello-kanban"]
+}

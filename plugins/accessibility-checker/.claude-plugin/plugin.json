@@ -1,0 +1,6 @@
+{
+  "name": "accessibility-checker",
+  "version": "1.0.0",
+  "description": "Audit HTML for WCAG violations and provide specific fixes for accessibility issues.",
+  "skills": ["skills/accessibility-checker"]
+}

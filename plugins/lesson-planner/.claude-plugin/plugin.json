@@ -1,0 +1,6 @@
+{
+  "name": "lesson-planner",
+  "version": "1.0.0",
+  "description": "Generate comprehensive lesson plans with activities, timing, and assessments from any topic.",
+  "skills": ["skills/lesson-planner"]
+}

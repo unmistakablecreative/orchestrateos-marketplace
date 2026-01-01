@@ -1,0 +1,6 @@
+{
+  "name": "github-workflow",
+  "version": "1.0.0",
+  "description": "Create repos, PRs, issues, and workflows via GitHub API and CLI.",
+  "skills": ["skills/github-workflow"]
+}

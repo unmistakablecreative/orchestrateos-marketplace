@@ -1,0 +1,6 @@
+{
+  "name": "meeting-notes-formatter",
+  "version": "1.0.0",
+  "description": "Transform raw meeting notes into structured summaries with action items, decisions, and key takeaways.",
+  "skills": ["skills/meeting-notes-formatter"]
+}

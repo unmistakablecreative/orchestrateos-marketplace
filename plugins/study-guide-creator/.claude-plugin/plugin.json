@@ -1,0 +1,6 @@
+{
+  "name": "study-guide-creator",
+  "version": "1.0.0",
+  "description": "Generate comprehensive study guides from lecture notes, textbooks, or course materials with key concepts, summaries, and review questions.",
+  "skills": ["skills/study-guide-creator"]
+}

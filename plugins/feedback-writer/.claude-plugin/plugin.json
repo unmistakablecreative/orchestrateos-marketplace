@@ -1,0 +1,6 @@
+{
+  "name": "feedback-writer",
+  "version": "1.0.0",
+  "description": "Generate constructive, actionable feedback on student work, essays, code, or any written material.",
+  "skills": ["skills/feedback-writer"]
+}

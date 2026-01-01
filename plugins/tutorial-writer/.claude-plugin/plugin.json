@@ -1,0 +1,6 @@
+{
+  "name": "tutorial-writer",
+  "version": "1.0.0",
+  "description": "Generate step-by-step tutorials from code with comments. Perfect for documentation and educational content.",
+  "skills": ["skills/tutorial-writer"]
+}

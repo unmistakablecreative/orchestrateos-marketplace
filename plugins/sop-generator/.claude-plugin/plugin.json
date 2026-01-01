@@ -1,0 +1,6 @@
+{
+  "name": "sop-generator",
+  "version": "1.0.0",
+  "description": "Generate standard operating procedure documents from process descriptions.",
+  "skills": ["skills/sop-generator"]
+}

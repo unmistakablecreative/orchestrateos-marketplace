@@ -1,0 +1,6 @@
+{
+  "name": "skills-matrix-creator",
+  "version": "1.0.0",
+  "description": "Create skills assessment matrices for teams, roles, and organizations. Outputs structured competency frameworks.",
+  "skills": ["skills/skills-matrix-creator"]
+}

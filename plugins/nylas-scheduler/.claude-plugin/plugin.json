@@ -1,0 +1,6 @@
+{
+  "name": "nylas-scheduler",
+  "version": "1.0.0",
+  "description": "Create scheduling pages and booking links via Nylas Scheduler API. Manage availability, booking configurations, and calendar integrations.",
+  "skills": ["skills/nylas-scheduler"]
+}

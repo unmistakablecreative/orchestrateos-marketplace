@@ -1,0 +1,6 @@
+{
+  "name": "docker-suite",
+  "version": "1.0.0",
+  "description": "Generate production-ready Dockerfiles and docker-compose configurations with multi-stage builds and layer caching.",
+  "skills": ["skills/docker-suite"]
+}
